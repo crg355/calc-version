@@ -1,1 +1,1 @@
-window.HELIX_LATEST = {"version":"2026.10.26-1","builtAt":"2026-10-26","url":"https://helixopsai.sharepoint.com/:u:/t/SalesBestPractices-Helix/IQD5YB2dcNpdQK1CZMb47xxHAadzTYjJqFpmxNY56ARUuec?e=kpwJVI","message":""};
+window.HELIX_LATEST = {"version":"2026.10.26-2","builtAt":"2026-10-26","url":"https://helixopsai.sharepoint.com/:u:/t/SalesBestPractices-Helix/IQD5YB2dcNpdQK1CZMb47xxHAadzTYjJqFpmxNY56ARUuec?e=kpwJVI","message":""};
